@@ -45,3 +45,5 @@ lib/game.ts           pure winner/draw logic
 ## Live demo
 
 Deployed on Vercel: https://tictactoe-trambulop43.vercel.app
+
+Built by Paul Domenic Trambulo.
